@@ -1,0 +1,15 @@
+Data Analysis & Manipulation
+pandas==1.5.3
+numpy==1.23.5
+
+Data Visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+
+Machine Learning & Modeling
+scikit-learn==1.2.2
+lifelines==0.27.8
+shap==0.41.0
+
+Web Framework
+Flask==2.2.2
